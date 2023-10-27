@@ -19,6 +19,7 @@ box-sizing: border-box;
 html , body{
     height: 100%;
     width: 100%;
+    overflow-x:hidden;
 }
 #main{
     background-color:#BDB6AD;
